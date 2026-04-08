@@ -13,9 +13,11 @@ namespace GadgetHub.WebUI.Controllers
     public class CartController : Controller
     {
         private IGadgetRepository repository;
-        public CartController(IGadgetRepository repo)
+        private IOrderProcessor orderProcessor;
+        public CartController(IGadgetRepository repo, IOrderProcessor proc)
         {
             repository = repo;
+            orderProcessor = proc;
         }
 
         private Cart GetCart()
@@ -30,30 +32,66 @@ namespace GadgetHub.WebUI.Controllers
             return cart;
         }
 
-        public RedirectToRouteResult AddToCart(int gadgetID, string returnUrl)
+        public RedirectToRouteResult AddToCart(Cart cart, int gadgetID, string returnUrl)
         {
             Gadget gadget = repository.Gadgets.FirstOrDefault
                                                (g => g.GadgetID == gadgetID);
             if (gadget != null)
             {
-                GetCart().AddItem(gadget, 1);
+                cart.AddItem(gadget, 1);
             }
             return RedirectToAction("Index", new {returnUrl});
 
         }
 
-        public RedirectToRouteResult RemoveFromCart(int gadgetID, string returnUrl)
+        public RedirectToRouteResult RemoveFromCart(Cart cart,int gadgetID, string returnUrl)
         {
             Gadget gadget = repository.Gadgets.FirstOrDefault
                                                (g => g.GadgetID == gadgetID);
             if (gadget != null)
             {
-                GetCart().RemoveLine(gadget);
+                cart.RemoveLine(gadget);
             }
 
             return RedirectToAction("Index", new {returnUrl});
         
         }
 
+        public ViewResult Index(Cart cart, string returnUrl) 
+        {
+            return View(new CartIndexViewModel
+            {
+                ReturnUrl = returnUrl,
+                Cart = cart
+            });
+        }
+
+        public PartialViewResult Summary(Cart cart)
+        {
+            return PartialView(cart); 
+        }
+
+        public ViewResult Checkout()
+        { 
+            return View(new ShippingDetails());
+        }
+        [HttpPost]
+        public ViewResult Checkout(Cart cart, ShippingDetails shippingDetails)
+        {
+            if (cart.Lines.Count() == 0)
+            {
+                ModelState.AddModelError("", "Sorry, your cart is empty!");
+            }
+            if (ModelState.IsValid)
+            {
+                orderProcessor.ProcessOrder(cart, shippingDetails);
+                cart.Clear();
+                return View("Completed");
+            }
+            else
+            {
+                return View(shippingDetails);
+            }
+        }
     }
 }

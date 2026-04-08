@@ -7,6 +7,7 @@
 
     <link href="~/Content/bootstrap.css" rel="stylesheet"/>
     <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
 
     <title>@ViewBag.Title</title>
 </head>
@@ -14,6 +15,7 @@
 <body>
     <div class="navbar navbar-inverse" role="navigation">
         <a class="navbar-brand" href="#">Gadget Store</a>
+        @Html.Action("Summary", "Cart")
     </div>
 
     <div class="row border p-3">
@@ -27,7 +29,6 @@
          
         </div>
 
-    </div>
-          
+    </div>       
 </body>
 </html>

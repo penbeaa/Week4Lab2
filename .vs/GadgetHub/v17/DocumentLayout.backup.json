@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.domain\\entites\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entites\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.domain\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entites\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\shared\\gadgetsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\gadgetsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efgadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.domain\\abstract\\igadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\igadgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5D6DE5-A1F7-4A14-98B9-791D03CFBB0E}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\penbeaa\\onedrive - dunwoody college of technology\\desktop\\gadgethub\\gadgethub.domain\\entites\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68B941-2858-4D93-ADE8-AD7DE4D8906D}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entites\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T03:26:19.545Z",
+              "WhenOpened": "2026-04-08T20:26:25.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entites\\ShippingDetails.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\ShippingDetails.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entites\\ShippingDetails.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T03:21:46.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T03:10:02.461Z",
+              "WhenOpened": "2026-04-08T20:25:31.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\Cart.cs",
-              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entites\\Cart.cs",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\Cart.cs",
-              "RelativeToolTip": "GadgetHub.Domain\\Entites\\Cart.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T02:48:06.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T02:35:17.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavController.cs",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\NavController.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\NavController.cs",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\NavController.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\NavController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T02:28:29.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T02:13:02.68Z",
+              "WhenOpened": "2026-04-08T20:24:48.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GadgetSummary.cshtml",
-              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
-              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\GadgetSummary.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:19:41.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-14T02:12:56.132Z",
+              "WhenOpened": "2026-04-08T20:03:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:52:46.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EFGadgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFGadgetRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:41:48.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGadgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Abstract\\IGadgetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:40:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\Gadget.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entites\\Gadget.cs",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.Domain\\Entites\\Gadget.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entites\\Gadget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:13:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\penbeaa\\OneDrive - Dunwoody College of Technology\\Desktop\\GadgetHub\\GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T18:58:23.78Z",
               "EditorCaption": ""
             }
           ]

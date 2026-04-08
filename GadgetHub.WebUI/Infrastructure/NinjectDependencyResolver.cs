@@ -1,12 +1,14 @@
 ﻿using GadgetHub.Domain.Abstract;
 using GadgetHub.Domain.Concrete;
 using GadgetHub.Domain.Entites;
+using GadgetHub.Domain.Entities;
 using Moq;
 using Ninject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
+using System.Configuration;
 
 
 namespace GadgetHub.WebUI.Infrastructure
@@ -29,21 +31,17 @@ namespace GadgetHub.WebUI.Infrastructure
         }
         public void AddBindings()
         {
-            /*
-            Mock<IGadgetRepository> myMock = new Mock<IGadgetRepository>();
-            myMock.Setup(m => m.Gadgets).Returns(new List<Gadget>
+          mykernel.Bind<IGadgetRepository>().To<EFGadgetRepository>(); ;
+            EmailSettings emailSettings = new EmailSettings
             {
-                
-                new Gadget {Name = "Phone", Price = 250},
-                new Gadget {Name = "SmartWatch", Price = 179},
-                new Gadget {Name = "Accessories", Price = 10}
-            });
-
-            mykernel.Bind<IGadgetRepository>().ToConstant(myMock.Object);
-            */
+                WriteAsFile = bool.Parse(
+                    ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+            };
 
 
-            mykernel.Bind<IGadgetRepository>().To<EFGadgetRepository>();
+            mykernel.Bind<IOrderProcessor>()
+                .To<EmailOrderProcessor>()
+                .WithConstructorArgument("settings", emailSettings);
             }   
        }
 

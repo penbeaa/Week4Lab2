@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using GadgetHub.Domain.Entites;
-
+using GadgetHub.Domain.Entities;
 
 namespace GadgetHub.Domain.Abstract
 {
-    public interface IGadgetRepository
+    public interface IOrderProcessor
     {
-        IEnumerable<Gadget> Gadgets { get; }
-
-        void SaveGadget(Gadget gadget);
+        void ProcessOrder(Cart cart, ShippingDetails shippingDetails);
     }
 }
